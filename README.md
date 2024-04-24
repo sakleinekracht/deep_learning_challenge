@@ -48,7 +48,7 @@ I made 3 attempts to optimize and increase model performance:
     * I kept the number of epochs at 5
     * Results (rounded to 2 decimal points):
          * Loss: 0.57
-         * * Accuracy: 0.73
+         * Accuracy: 0.73
 
 * Attempt 2: Added more neurons to hidden layers 1 and 2
     * I kept the number of hidden layers at 4.
@@ -63,8 +63,8 @@ I made 3 attempts to optimize and increase model performance:
     * The first 2 hidden layers had 15 neurons, the second 2 had 10. 
     * I kept the number of epochs at 5
     * Results (rounded to 2 decimal points):
-          * Loss: 0.56
-          * Accuracy: 0.73
+        * Loss: 0.56
+        * Accuracy: 0.73
 
 ## Summary
 
