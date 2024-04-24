@@ -4,6 +4,7 @@
 The purpose of this model is to predict if applicants to the nonprofit foundation Alphabet Soup would be successful if funded. This model analyzes a dataset of over 34,000 organization that have received funding in the past. Using TensorFlow and Keras, I created and evaluated a neural network model to perform this prediction. I also tried different methods to optimize the model in an attempt to increase accuracy. All attempts yielded an accuracy score less than 75% so we can conclude that it's not guaranteed that applicants would be successful if they received fudning from Alphabet Soup. 
 
 ## Results
+
     ### Data Processing
 
         #### What variable(s) are the target(s) for your model? 
@@ -65,6 +66,8 @@ The purpose of this model is to predict if applicants to the nonprofit foundatio
             * Results (rounded to 2 decimal points):
                 * Loss: 0.56
                 * Accuracy: 0.73
+
+
 
 ## Summary
 
